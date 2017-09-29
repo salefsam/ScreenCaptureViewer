@@ -1,0 +1,9 @@
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\bin\Debug\ScreenCaptureViewer.exe.config
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\bin\Debug\ScreenCaptureViewer.exe
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\bin\Debug\ScreenCaptureViewer.pdb
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.Form1.resources
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.exe
+c:\users\sam\documents\visual studio 2013\Projects\ScreenCaptureViewer\ScreenCaptureViewer\obj\Debug\ScreenCaptureViewer.pdb
